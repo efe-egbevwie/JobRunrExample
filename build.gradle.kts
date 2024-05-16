@@ -28,8 +28,6 @@ dependencies {
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 
 	implementation("org.xerial:sqlite-jdbc:3.25.2")
-//	implementation("org.jobrunr:jobrunr:7.1.1")
-
 	implementation("org.jobrunr:jobrunr-spring-boot-starter:5.3.3")
 
 
